@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from colorama import Fore, Style, init
 import pyfiglet
-
+os.system("clear")
 init(autoreset=True)
 
 #payloads lists
