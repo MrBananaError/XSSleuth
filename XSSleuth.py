@@ -172,6 +172,7 @@ print(Fore.RED + ascii_banner)
 
 github_url = "https://github.com/MrBananaError"
 print(Fore.CYAN + "GitHub: " + github_url + Style.RESET_ALL)
+print("----------------------------------------------------")
 
 
 
