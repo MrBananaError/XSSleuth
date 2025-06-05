@@ -167,7 +167,7 @@ init()
 ascii_banner = pyfiglet.figlet_format("XSSleuth")
 
 
-print(Fore.REd + ascii_banner)
+print(Fore.RED + ascii_banner)
 
 github_url = "https://github.com/MrBananaError"
 print(Fore.CYAN + "GitHub: " + github_url + Style.RESET_ALL)
