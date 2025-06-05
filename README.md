@@ -61,7 +61,7 @@ Clone the repository and run the tool:
 ```bash
 git clone https://github.com/MrBananaError/XSSleuth.git
 cd XSSleuth
-python3 xssleuth.py
+python3 XSSleuth.py
 ```
 
 Enter the target URL (make sure to include `http://` or `https://`) when prompted.
@@ -132,7 +132,7 @@ pip install pyfiglet colorama beautifulsoup4 requests
 ```bash
 git clone https://github.com/MrBananaError/XSSleuth.git
 cd XSSleuth
-python3 xssleuth.py
+python3 XSSleuth.py
 ```
 
 وقتی از شما خواسته شد، URL هدف را وارد کنید (حتما `http://` یا `https://` را اضافه کنید).
