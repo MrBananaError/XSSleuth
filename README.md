@@ -73,12 +73,6 @@ This tool is intended for **educational purposes only** and should only be used 
 
 ---
 
-## 🤝 Contributing & Expanding XSSleuth
-
-We’re excited about the possibility of you contributing to and expanding XSSleuth!  
-If you have ideas for new features, find bugs, or want to add more payloads, feel free to open an issue or submit a pull request on GitHub.  
-Your help in making this project better is highly appreciated! 💜
-
 <div align="center">
   
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
@@ -150,11 +144,6 @@ python3 xssleuth.py
 
 ---
 
-## 🤝 مشارکت و توسعه XSSleuth
-
-ما بسیار خوشحال می‌شویم اگر شما در توسعه و گسترش XSSleuth مشارکت کنید!  
-اگر ایده‌ای برای ویژگی‌های جدید دارید، باگ پیدا کردید، یا می‌خواهید پیلودهای بیشتری اضافه کنید، حتما در گیت‌هاب issue باز کنید یا Pull Request ارسال کنید.  
-کمک شما در بهتر شدن این پروژه بسیار ارزشمند است! 💜
 
 <div align="center">
   
