@@ -1,2 +1,2 @@
-# xsspy
+# XSSleuth
 Python XSS scanner
