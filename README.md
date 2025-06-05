@@ -1,10 +1,18 @@
+<div align="center">
 
-# <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" /> XSSleuth
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+ 
+# <img src="https://camo.githubusercontent.com/f29e9211190694d2eea4e08cb2df14e99bcdfef9356215de868b68359305f294/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d75737461636865706172726f742e676966" width="70" /> XSSleuth <img src="https://camo.githubusercontent.com/f29e9211190694d2eea4e08cb2df14e99bcdfef9356215de868b68359305f294/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d75737461636865706172726f742e676966" width="70" />
+
   <br>
+  </div>
+
+  
 **XSSleuth** is a powerful and automated tool designed to help security researchers and penetration testers identify **Cross-Site Scripting (XSS)** vulnerabilities in web applications.  
 This tool includes **151 XSS payloads** that it automatically tests against input fields in target URLs.
 Python XSS scanner
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 ## 🔍 Features
 
@@ -12,6 +20,12 @@ Python XSS scanner
 - Extracts and submits all forms found on the page to test injection points  
 - Displays colorful and clear output with ASCII banners for better readability  
 - **Allows you to easily add your own custom payloads** by modifying the `XSS_PAYLOADS` list in the code, making it flexible to test new or targeted payloads  
+  <div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="75">&nbsp; 
+</div>
+
+
 
 ## ⚙️ Python Libraries Used
 
@@ -72,7 +86,7 @@ Your help in making this project better is highly appreciated! 💜
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
   <br>
 
 
@@ -81,7 +95,7 @@ Your help in making this project better is highly appreciated! 💜
 **XSSleuth** یک ابزار قدرتمند و خودکار است که به پژوهشگران امنیت و تست‌کنندگان نفوذ کمک می‌کند تا آسیب‌پذیری‌های **Cross-Site Scripting (XSS)** را در برنامه‌های وب شناسایی کنند.  
 این ابزار شامل **۱۵۱ پیلود XSS** است که به صورت خودکار روی فیلدهای ورودی سایت‌های هدف تست می‌کند.
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🔍 ویژگی‌ها
 
